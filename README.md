@@ -1,2 +1,2 @@
 # Meteor
-Banco de dados de uma empresa de usinagem
+Banco de dados de uma empresa fictícia de usinagem
